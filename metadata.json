@@ -1,0 +1,7 @@
+{
+  "name": "Physical Touch, Digital Mind",
+  "description": "An immersive 3D portfolio experience bridging physical retail legacy with generative AI futures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
